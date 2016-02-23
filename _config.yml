@@ -1,0 +1,8 @@
+# For Production
+baseurl: "https://devops.illuminateed.com/~zrankin/tabular"
+
+# For Dev
+# baseurl: ""
+
+# Build settings
+markdown: kramdown
