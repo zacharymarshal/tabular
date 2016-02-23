@@ -14,13 +14,13 @@ Some of you might be wondering why I have prepared this document for you to read
 - You can skip the information you don't care about.  No need to wait me to go slide by slide.
 - The content can be shared, re-read, and improved.  It is really annoying to read through a presentation and only get 5% of what the presenter might have been saying.
 
-This is really just an experiment and I would love to hear your thoughts on the idea so please share your feedback.  My goal is that you will learn at least one thing that will help you get improve productivity.
+This is really just an experiment and I would love to hear your thoughts on the idea so please share your feedback.  My goal is that you will learn at least one thing that will help improve your productivity.
 
 [^1]: Edward Tufte is a data visualization guru. [edwardtufte.com](http://www.edwardtufte.com/tufte/)
 
 ## Where my story began
 
-I started working for Achieve Data Solutions (known for DataDirector [^2]) in the summer of 2004.  I started out working as an "office support person".  My job was to do anything people would give me, e.g., shopping, cleaning, answering phone calls, scanning, shredding, etc.  Everything seemed pretty sweet until we landed a contract with Sacramento City Unified School District to do all of the printing and scanning for their benchmarks.
+I started working for Achieve Data Solutions (known for DataDirector [^2]) in the summer of 2004.  I started out working as an "office support person".  My job was to do anything people would give me: shopping, cleaning, answering phone calls, scanning, shredding, etc.  Everything seemed pretty sweet until we landed a contract with Sacramento City Unified School District to do all of the printing and scanning for their benchmarks.
 
 [^2]: DataDirector was an assessment and reporting web application.  It was a direct competitor to our Data and Assessment application.
 
@@ -48,13 +48,15 @@ There are many important skills to be learned and mastered when using your brows
 
 ## Keyboard + mouse
 
-Note: The shortcuts in this document will work for Mac users. Most PC shortcuts are the same (or very similar) but use the `CTRL` key in place of the `CMD` key.
+Note: The shortcuts in this document will work for Windows users. Most Mac shortcuts are the same (or very similar) but use the `COMMAND` key in place of the `CTRL` [^3] key.
 
-There is some debate over whether or not using the keyboard is faster than using the mouse.  I think a balance of both will make you the most productive.  For example, learning the keyboard shortcut for Find is going to save you from using the Edit menu and clicking Find every time.  Instead you just type `CMD + F`
+[^3]: `CTRL` is short for the control key on your keyboard.  Normally to the left of the Alt/Option key.
+
+There is some debate over whether or not using the keyboard is faster than using the mouse.  I think a balance of both will make you the most productive.  For example, learning the keyboard shortcut for Find is going to save you from using the Edit menu and clicking Find every time.  Instead you just type `CTRL + F`
 
 ![Find](images/screenshot-edit-menu-find.png)
 
-However, if you are browsing or looking for a specific piece of information on a page, maybe a link, then it will be quicker for you to use your mouse to move to that element and click.  Using the keyboard you would have to `TAB TAB TAB` till you reached that element, and hit spacebar.
+However, if you are browsing or looking for a specific piece of information on a page, maybe a link, then it will be quicker for you to use your mouse to move to that element and click.  Using the keyboard you would have to `TAB TAB TAB` until you reached that element, and hit spacebar.
 
 ![Use Mouse](images/screenshot-use-mouse.png)
 
@@ -64,7 +66,7 @@ Another idea is to experiment avoiding using your mouse at all.  See if you can 
 
 ## Use Chrome
 
-When it comes to browsers, I love Google Chrome. I have tried them all--Safari, Opera, Firefox, IE and I keep coming back to Chrome.  Here are some of the features I love.
+When it comes to browsers, I love Google Chrome. I have tried them all (Safari, Opera, Firefox, and IE) and I keep coming back to Chrome.  Here are some of the features I love.
 
 ### Work vs Personal profiles
 
@@ -92,46 +94,48 @@ uBlock
 
 ### Other Things
 
-The most important setting is **Enable Warn Before Quitting**.  This will warn you if you ever `CMD + Q` or `ALT + F4` your browser.  I cannot tell you how many times I have not had this option on and lost unsaved work.  The setting is located in the Chrome menu under "Warn Before Quitting".
+The most important setting is **Enable Warn Before Quitting**.  This will warn you if you ever `CTRL + Q` or `ALT + F4` your browser.  I cannot tell you how many times I have not had this option on and lost unsaved work.  The setting is located in the Chrome menu under "Warn Before Quitting".
 
 ![Warn Before Quitting](images/screenshot-warn-before-quitting.png)
-
-Pinning tabs is really nice for those tabs to which you always want access. For example, email, Illuminate, District website, etc.
-
-![Pin Tabs](images/screenshot-pin-tab.png)
 
 ## What is tabbed browsing?
 
 Before tabs there were only browser windows.  Anytime you wanted to have multiple websites open you would have to open a new window.  Pretty soon you would be lost in the third level of inception, with no hope of escape.  Tabbed browsing allows you to visit multiple webpages within a single browser window.  This is nice for organization, but the power of tabbed browsing shines when you open multiple pages within the same website in separate tabs.
 
-Once you login to your website (i.e., Illuminate), the browser creates a new session.  A session is like a phone call between you and a website.  Once we start talking the conversation is ongoing until you hang up (quit your browser or logout).  This is a really useful feature of browsers because you do not have to re-login to your website each time you open a new tab.  It is also good to have a basic understanding of sessions once I start talking about Private Browsing.
+Once you login to your website (e.g. Illuminate), the browser creates a new session.  A session is like a phone call between you and a website.  Once we start talking the conversation is ongoing until you hang up (quit your browser or logout).  This is a really useful feature of browsers because you do not have to re-login to your website each time you open a new tab.  It is also good to have a basic understanding of sessions once I start talking about Private Browsing.
 
 ## Tabbed Browsing Shortcuts
 
 ### Command Clicking
 
-Holding `CMD` and `clicking` on things is one of the best way to create new tabs.  You can try this out by clicking on one of the links on this page to open its contents in a new tab.  However, this feature doesn't just work on links.  You can also use it on the back and forward buttons in your browser!  This is really useful to open your previous page in a new tab without losing your current page.  You can also use it to re-submit forms like reports with different options!
+Holding `CTRL` and `clicking` on things is one of the best ways to create new tabs.  You can try this out by clicking on one of the links on this page to open its contents in a new tab.  However, this feature doesn't just work on links.  You can also use it on the back and forward buttons in your browser!  This is really useful to open your previous page in a new tab without losing your current page.  You can also use it to re-submit forms like reports with different options!
 
 ![Back Button](images/screencapture-cmd-back-btn.gif)
 
-*`CMD + Click` back button*
+*`CTRL + Click` the back button to open the previously visited page in a new tab*
 
 ![Submit Form](images/screencapture-cmd-submit-form.gif)
 
-*`CMD + Click` a button to submit a form*
+*`CTRL + Click` a button to submit a form in a mew tab*
 
 ![Clicking link](images/screencapture-click-link.gif)
 
-*`CMD + Click` a link to open it in a new tab*
+*`CTRL + Click` a link to open it in a new tab*
 
 
 ### Duplicating Tabs
 
-Duplicating browser tabs is another very useful feature.  For example, if you are on a report, you might want to change one option and compare the results.  You run the report, then you duplicate the tab, select the different option, and re-run the report in your new tab.  To duplicate a tab you can `CMD + ENTER` or `Right Click` on the tab and choose `Duplicate Tab`.
+Duplicating browser tabs is another very useful feature.  For example, if you are on a report, you might want to change one option and compare the results.  You run the report, then you duplicate the tab, select the different option, and re-run the report in your new tab.  To duplicate a tab you can `CTRL + ENTER` or `Right Click` on the tab and choose `Duplicate Tab`.  Note: `CTRL + ENTER` will only work if you have the url highlighted.
 
 ![Duplicate Tab](images/screencapture-duplicate-tab.gif)
 
 *Duplicate tabs*
+
+### Pinning Tabs
+
+Pinning tabs is really nice for those tabs to which you always want access. For example, email, Illuminate, District website, etc.
+
+![Pin Tabs](images/screenshot-pin-tab.png)
 
 ### Controlling those tabs
 
@@ -143,15 +147,15 @@ You can move tabs by clicking and dragging them.  I do this to sort/organize the
 
 Moving between tabs using your keyboard shortcuts is one of the best ways to improve your workflow.  `CTRL + TAB` will focus the next tab in your tab bar.  `CTRL + SHIFT + TAB` will go to the previous tab.  This frees up your mouse to be used for clicking on elements on the next page without having to move too far.  It also allows you to very quickly move back and forth to compare data between pages.
 
-![Cycle through tabs](images/screencapture-cycle-tabs.gif)
+![Move through tabs](images/screencapture-cycle-tabs.gif)
 
-*Cycle through tabs using keyboard shortcuts `CTRL + TAB` and `CTRL + SHIFT + TAB`*
+*Move to the next and previous tab using keyboard shortcuts `CTRL + TAB` and `CTRL + SHIFT + TAB`*
 
-Finally, I think it is also very useful to know how to close tabs using a keyboard shortcut.  To close a single tab you can use `CMD + W`.
+Finally, I think it is also very useful to know how to close tabs using a keyboard shortcut.  To close a single tab you can use `CTRL + W`.
 
 ![Close tabs](images/screencapture-close-tabs.gif)
 
-*Close tabs using `CMD + W`*
+*Close tabs using `CTRL + W`*
 
 ## Webpage Shortcuts
 
@@ -159,13 +163,13 @@ Some of the shortcuts I will show you here might not work if you are typing into
 
 ### Searching a page
 
-Have you ever wanted to find some text on a website but they don't have a search box?  `CMD + F` to the rescue!  It will search all text on the page and look for what you type in the field.  It is really powerful, especially when you just look for pieces of what you might be looking for.  For example, if I was on the permission search page and I was looking for the "Override Student Comments" permission, I might just look for "Override" or "Comments".
+Have you ever wanted to find some text on a website but they don't have a search box?  `CTRL + F` to the rescue!  It will search all text on the page and look for what you type in the field.  It is really powerful, especially when you just look for pieces of what you might be looking for.  For example, if I was on the permission search page and I was looking for the "Override Student Comments" permission, I might just look for "Override" or "Comments".
 
-Also, when doing a page search you could click the arrows to go to the previous and next found item, however, did you know there is a keyboard shortcut for that?  You can use `CMD + G` and `CMD + SHIFT + G` to move to the next found word or the previous found word.
+When doing a page search you could click the arrows to go to the previous and next found item. However, did you know there is a keyboard shortcut for that?  You can use `CTRL + G` and `CTRL + SHIFT + G` to move to the next found word or the previous found word.
 
 ![Finding](images/screencapture-find.gif)
 
-*Search for text using `CMD + F`.  Go to the next and previous found item using `CMD + G` and `CMD + SHIFT + G`*
+*Search for text using `CTRL + F`.  Go to the next and previous found item using `CTRL + G` and `CTRL + SHIFT + G`*
 
 You can also search elements within a select box by focusing it and then starting to type.  After typing, you can use `SPACEBAR` or `ENTER` to select the value that you want.  You can also use the arrow keys to move up and down the options in the list.  This is a really useful feature but there are some downsides.  It will only search if the option starts with what you are typing and there is no visual indication of what you typed.
 
@@ -189,19 +193,19 @@ If you want to scroll down "page by page" you can use `SPACEBAR`.  This is usefu
 
 ## Private Browsing
 
-Private browsing is a feature of Chrome that lets you create a new browser session/window (it is not just for being very very sneaky).  Once you create a new private browsing window you can re-login to your website and now you are managing two different sessions.  To switch between the two, you can use the `CMD + ~` and `CMD + SHIFT + ~` keyboard shortcuts.  Also, to create a new private browsing window you can use the keyboard shortcut `CMD + SHIFT + N`.
+Private browsing is a feature of Chrome that lets you create a new browser session/window (it is not just for being very very sneaky).  Once you create a new private browsing window you can re-login to your website and now you are managing two different sessions.  To switch between the two, you can use the `CTRL + ~` and `CTRL + SHIFT + ~` keyboard shortcuts.  Also, to create a new private browsing window you can use the keyboard shortcut `CTRL + SHIFT + N`.
 
 ![Finding](images/screencapture-private-browsing.gif)
 
-*Use `CMD + SHIFT + N` to create a new private browsing window.*
+*Use `CTRL + SHIFT + N` to create a new private browsing window.*
 
 I find this feature useful for administrators or teachers with multiple logins to Illuminate.  You can have one window with your admin account, and your private browsing window can be your teacher account.  You can switch between the two to complete the tasks that you need for the day.
 
 ## Pitfalls
 
-Using tabs isn't all rainbows and unicorns.  You have to be careful you don't get overloaded with too many tabs.  I recommend if you are done using a tab, close it.
+Using tabs isn't all rainbows and unicorns.  You have to be careful you don't get overloaded with too many tabs.  I recommend you close a tab when you are done using it.
 
-When using Illuminate, there are a couple of features that get confusing when using multiple tabs.  When selecting a student in Illuminate you enter what we like to call "student mode".  When in student mode you can browse many different pages of the system that work with a single student.  This is great, but if you are using multiple tabs you need to make sure you are not switching students, otherwise, you could end up changing data for the new student instead of the student you see on the page.
+When using Illuminate, there are a couple of features that get confusing when using multiple tabs.  When selecting a student in Illuminate you enter what we like to call "student mode".  When in student mode you can browse many different pages of the system that work with a single student.  This is great, but if you are using multiple tabs you need to make sure you are not switching students. Otherwise you could end up changing data for the new student instead of the student you see on the page.
 
 Another place this can happen is if you change your site in the Control Panel.  If you have tabs open I would recommend not changing sites until you have all your tabs closed.
 
