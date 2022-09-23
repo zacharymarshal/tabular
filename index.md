@@ -54,7 +54,7 @@ Note: The shortcuts in this document will work for Windows users. Most Mac short
 
 There is some debate over whether or not using the keyboard is faster than using the mouse.  I think a balance of both will make you the most productive.  For example, learning the keyboard shortcut for Find is going to save you from using the Edit menu and clicking Find every time.  Instead you just type `CTRL + F`
 
-![Find](images/screenshot-edit-menu-find.png)
+![Find]({{site.basurl}}/images/screenshot-edit-menu-find.png)
 
 However, if you are browsing or looking for a specific piece of information on a page, maybe a link, then it will be quicker for you to use your mouse to move to that element and click.  Using the keyboard you would have to `TAB TAB TAB` until you reached that element, and hit spacebar.
 
