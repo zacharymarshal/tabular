@@ -58,7 +58,7 @@ There is some debate over whether or not using the keyboard is faster than using
 
 However, if you are browsing or looking for a specific piece of information on a page, maybe a link, then it will be quicker for you to use your mouse to move to that element and click.  Using the keyboard you would have to `TAB TAB TAB` until you reached that element, and hit spacebar.
 
-![Use Mouse](images/screenshot-use-mouse.png)
+![Use Mouse]({{site.github.url}}/images/screenshot-use-mouse.png)
 
 So how do you know when you should use the mouse and when you should use the keyboard?  Well, for me, anytime I use the mouse to complete a task I take a mental note.  If I do that same thing a couple of times, I look for a keyboard shortcut that will do the same thing.  Then I spend a few minutes burning that shortcut into my brain.  I force myself to use it for a while until it becomes natural.  Sometimes a keyboard shortcut might not exist.  There are a few plugins out there that let you get crazy, such as Shortkeys, but for me it is more work than it is worth.
 
@@ -72,7 +72,7 @@ When it comes to browsers, I love Google Chrome. I have tried them all (Safari, 
 
 Since Chrome integrates with your gmail account all of your browser information is tracked and aligned to the account (I know this can scare the heck out of some people, but to me it is really handy).  It tracks your history, bookmarks, extensions, default form data, and maybe more.  This is really useful for me because I have multiple computers I use on a daily basis and it helps me separate work from home.
 
-![Use Mouse](images/screenshot-chrome-profiles.png)
+![Use Mouse]({{site.github.url}}/images/screenshot-chrome-profiles.png)
 
 ### Extensions
 
@@ -96,7 +96,7 @@ uBlock
 
 The most important setting is **Enable Warn Before Quitting**.  This will warn you if you ever `CTRL + Q` or `ALT + F4` your browser.  I cannot tell you how many times I have not had this option on and lost unsaved work.  The setting is located in the Chrome menu under "Warn Before Quitting".
 
-![Warn Before Quitting](images/screenshot-warn-before-quitting.png)
+![Warn Before Quitting]({{site.github.url}}/images/screenshot-warn-before-quitting.png)
 
 ## What is tabbed browsing?
 
@@ -110,15 +110,15 @@ Once you login to your website (e.g. Illuminate), the browser creates a new sess
 
 Holding `CTRL` and `clicking` on things is one of the best ways to create new tabs.  You can try this out by clicking on one of the links on this page to open its contents in a new tab.  However, this feature doesn't just work on links.  You can also use it on the back and forward buttons in your browser!  This is really useful to open your previous page in a new tab without losing your current page.  You can also use it to re-submit forms like reports with different options!
 
-![Back Button](images/screencapture-cmd-back-btn.gif)
+![Back Button]({{site.github.url}}/images/screencapture-cmd-back-btn.gif)
 
 *`CTRL + Click` the back button to open the previously visited page in a new tab*
 
-![Submit Form](images/screencapture-cmd-submit-form.gif)
+![Submit Form]({{site.github.url}}/images/screencapture-cmd-submit-form.gif)
 
 *`CTRL + Click` a button to submit a form in a mew tab*
 
-![Clicking link](images/screencapture-click-link.gif)
+![Clicking link]({{site.github.url}}/images/screencapture-click-link.gif)
 
 *`CTRL + Click` a link to open it in a new tab*
 
@@ -127,7 +127,7 @@ Holding `CTRL` and `clicking` on things is one of the best ways to create new ta
 
 Duplicating browser tabs is another very useful feature.  For example, if you are on a report, you might want to change one option and compare the results.  You run the report, then you duplicate the tab, select the different option, and re-run the report in your new tab.  To duplicate a tab you can `CTRL + ENTER` or `Right Click` on the tab and choose `Duplicate Tab`.  Note: `CTRL + ENTER` will only work if you have the url highlighted.
 
-![Duplicate Tab](images/screencapture-duplicate-tab.gif)
+![Duplicate Tab]({{site.github.url}}/images/screencapture-duplicate-tab.gif)
 
 *Duplicate tabs*
 
@@ -135,25 +135,25 @@ Duplicating browser tabs is another very useful feature.  For example, if you ar
 
 Pinning tabs is really nice for those tabs to which you always want access. For example, email, Illuminate, District website, etc.
 
-![Pin Tabs](images/screenshot-pin-tab.png)
+![Pin Tabs]({{site.github.url}}/images/screenshot-pin-tab.png)
 
 ### Controlling those tabs
 
 You can move tabs by clicking and dragging them.  I do this to sort/organize the tabs to optimize my workflow.
 
-![Moving Tabs](images/screencapture-moving-tabs.gif)
+![Moving Tabs]({{site.github.url}}/images/screencapture-moving-tabs.gif)
 
 *Move tabs around*
 
 Moving between tabs using your keyboard shortcuts is one of the best ways to improve your workflow.  `CTRL + TAB` will focus the next tab in your tab bar.  `CTRL + SHIFT + TAB` will go to the previous tab.  This frees up your mouse to be used for clicking on elements on the next page without having to move too far.  It also allows you to very quickly move back and forth to compare data between pages.
 
-![Move through tabs](images/screencapture-cycle-tabs.gif)
+![Move through tabs]({{site.github.url}}/images/screencapture-cycle-tabs.gif)
 
 *Move to the next and previous tab using keyboard shortcuts `CTRL + TAB` and `CTRL + SHIFT + TAB`*
 
 Finally, I think it is also very useful to know how to close tabs using a keyboard shortcut.  To close a single tab you can use `CTRL + W`.
 
-![Close tabs](images/screencapture-close-tabs.gif)
+![Close tabs]({{site.github.url}}/images/screencapture-close-tabs.gif)
 
 *Close tabs using `CTRL + W`*
 
@@ -167,13 +167,13 @@ Have you ever wanted to find some text on a website but they don't have a search
 
 When doing a page search you could click the arrows to go to the previous and next found item. However, did you know there is a keyboard shortcut for that?  You can use `CTRL + G` and `CTRL + SHIFT + G` to move to the next found word or the previous found word.
 
-![Finding](images/screencapture-find.gif)
+![Finding]({{site.github.url}}/images/screencapture-find.gif)
 
 *Search for text using `CTRL + F`.  Go to the next and previous found item using `CTRL + G` and `CTRL + SHIFT + G`*
 
 You can also search elements within a select box by focusing it and then starting to type.  After typing, you can use `SPACEBAR` or `ENTER` to select the value that you want.  You can also use the arrow keys to move up and down the options in the list.  This is a really useful feature but there are some downsides.  It will only search if the option starts with what you are typing and there is no visual indication of what you typed.
 
-![Search box find](images/screencapture-search-select-box.gif)
+![Search box find]({{site.github.url}}/images/screencapture-search-select-box.gif)
 
 *Search for text in select boxes*
 
@@ -181,13 +181,13 @@ You can also search elements within a select box by focusing it and then startin
 
 The mouse wheel is definitely the best thing for scrolling a webpage.  However, when used in combination **with** your keyboard you can do some good things.  Scroll left and right on large tables using `SHIFT + Scroll Wheel`.  This will save you countless amounts of time looking for those scrollbars.
 
-![Left Right Scrolling](images/screencapture-scrolling-left-right.gif)
+![Left Right Scrolling]({{site.github.url}}/images/screencapture-scrolling-left-right.gif)
 
 *Use `SHIFT + Scroll Wheel` to scroll left and right.*
 
 If you want to scroll down "page by page" you can use `SPACEBAR`.  This is useful for browsing through lots and lots of data.
 
-![Spacebar Scrolling](images/screencapture-scroll-spacebar.gif)
+![Spacebar Scrolling]({{site.github.url}}/images/screencapture-scroll-spacebar.gif)
 
 *Use spacebar to scroll by page.*
 
@@ -195,7 +195,7 @@ If you want to scroll down "page by page" you can use `SPACEBAR`.  This is usefu
 
 Private browsing is a feature of Chrome that lets you create a new browser session/window (it is not just for being very very sneaky).  Once you create a new private browsing window you can re-login to your website and now you are managing two different sessions.  To switch between the two, you can use the `CTRL + ~` and `CTRL + SHIFT + ~` keyboard shortcuts.  Also, to create a new private browsing window you can use the keyboard shortcut `CTRL + SHIFT + N`.
 
-![Finding](images/screencapture-private-browsing.gif)
+![Finding]({{site.github.url}}/images/screencapture-private-browsing.gif)
 
 *Use `CTRL + SHIFT + N` to create a new private browsing window.*
 
